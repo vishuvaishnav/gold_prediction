@@ -14,7 +14,7 @@ This repository contains a project for predicting gold prices using a Random For
 
 ## Introduction
 
-Predicting gold prices can be a valuable tool for investors and analysts. This project aims to build a model that predicts gold prices based on historical data. We use the Random Forest Regressor from the scikit-learn library to train the model.
+Predicting gold prices can be a valuable tool for investors and analysts. This project aims to build a model that predicts gold prices based on historical data. We use the Random Forest Regressor and Liner Regression from the scikit-learn library to train the model.
 
 ## Dataset
 
